@@ -1,0 +1,17 @@
+body
+{
+}
+.generalText { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #000000}
+.subHeading { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #FFFFFF; background-color: #B64810}
+.inputBoxDrop{FONT-SIZE: 8pt;COLOR: black;FONT-FAMILY: Verdana, Courier New;}
+.buttonbg {font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; color: #FFFFFF; border: 1px #c53E03 solid; cursor:hand; background-image: url(images/button_bg.gif)}
+.searchLabel{FONT-SIZE: 10px;COLOR: #803530;FONT-FAMILY: Verdana, Courier New;text-decoration:none;}
+.titleBg { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #FFFFFF; letter-spacing: 0.1em; background-color: #FA8328}
+.contentBold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; line-height: normal; font-weight: bold; color: #000000; text-decoration: none ;}
+.content { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; line-height: normal; font-weight: normal; color: #000000; text-decoration: none ;}
+.content A
+{
+    text-decoration:none ;     
+}
+
+
